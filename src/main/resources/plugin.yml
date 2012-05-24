@@ -1,0 +1,12 @@
+name: MirahHello
+description: A test plugin written in Mirah.
+author: AlbireoX
+version: 0.0.1
+website: http://simplyian.com
+
+main: com.simplyian.bukkit.mirahhello.MirahHello
+
+commands:
+  mirahhello:
+    description: Say hello.
+    usage: /mirahhello
